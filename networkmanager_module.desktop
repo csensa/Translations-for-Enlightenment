@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Link
+Name=NetworkManager
+GenericName=NetworkManager
+Comment=Control Wifi and wired networks via NetworkManager.
+Comment[fr]=Permet de contrôler les réseaux Wi-Fi et câblés via NetworkManager.
+Icon=e-module-networkmanager
+X-Enlightenment-ModuleType=system
